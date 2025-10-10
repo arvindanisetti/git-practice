@@ -2,3 +2,6 @@
 
 1) EC2 (part-2)
 2) load balancer
+3) S3
+4) SM
+
